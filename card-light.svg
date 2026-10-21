@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="326" viewBox="0 0 620 326">
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;font-size:15px}</style>
+<rect x="0.5" y="0.5" width="619" height="325" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="40" fill="#0969da" font-weight="bold">alexxu2027@github</text>
+<text x="28" y="70" fill="#bc4c00">Name</text>
+<text x="178" y="70" fill="#24292f">Alex Xu</text>
+<text x="28" y="94" fill="#bc4c00">Location</text>
+<text x="178" y="94" fill="#24292f">New York, NY</text>
+<text x="28" y="118" fill="#bc4c00">School</text>
+<text x="178" y="118" fill="#24292f">NYU Stern</text>
+<text x="28" y="142" fill="#bc4c00">Major</text>
+<text x="178" y="142" fill="#24292f">Finance &amp; AI, Computing, and Data Science</text>
+<text x="28" y="166" fill="#bc4c00">Interests</text>
+<text x="178" y="166" fill="#24292f">music, lacrosse, chess, poker, Rocket League</text>
+<text x="28" y="190" fill="#bc4c00">Uptime</text>
+<text x="178" y="190" fill="#24292f">7,858 days (21y 6m 5d)</text>
+<line x1="28" x2="592" y1="209" y2="209" stroke="#d0d7de"/>
+<text x="28" y="226" fill="#bc4c00">Languages</text>
+<text x="178" y="226" fill="#24292f">Python 50% · TypeScript 24% · Swift 18%</text>
+<text x="28" y="250" fill="#bc4c00">Public repos</text>
+<text x="178" y="250" fill="#24292f">7</text>
+<text x="28" y="274" fill="#bc4c00">Commits</text>
+<text x="178" y="274" fill="#24292f">39 in the past year</text>
+<text x="28" y="308" fill="#57606a" font-size="12">updated 2026-10-21 by GitHub Actions</text>
+</svg>
