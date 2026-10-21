@@ -3,6 +3,8 @@
   <img alt="Profile card: about me, uptime, languages and GitHub stats" src="card-light.svg">
 </picture>
 
+Graphic design portfolio: **[alexxu2027.github.io](https://alexxu2027.github.io)**
+
 ### Building now
 
 - **[tandem](https://github.com/alexxu2027/tandem)**: predictive Citi Bike navigation for NYC. Forecasts bike and dock availability at your arrival time, not right now.
