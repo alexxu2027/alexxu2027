@@ -20,7 +20,8 @@ ABOUT = [
     ("Location", "New York, NY"),
     ("School", "NYU Stern"),
     ("Major", "Finance & AI, Computing, and Data Science"),
-    ("Interests", "music, lacrosse, chess, poker, Rocket League"),
+    ("Interests", "music, graphic design, lacrosse,"),
+    ("", "chess, poker, Rocket League"),
 ]
 
 THEMES = {
